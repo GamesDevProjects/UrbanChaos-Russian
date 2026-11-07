@@ -1,0 +1,15 @@
+{
+  "name": "UrbanChaos-ru",
+  "display_name": "RUSSIAN",
+  "table": "strings.tsv",
+  "codepage": "CP1251",
+  "font2d": {
+    "image": "font2d.tga",
+    "map": "font2d.map"
+  },
+  "menufont": {
+    "image": "menufont.tga",
+    "map": "menufont.map"
+  },
+  "voice": true
+}
